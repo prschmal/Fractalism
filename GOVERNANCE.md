@@ -1,31 +1,29 @@
 # Governance
 
-## Roles
-- **Maintainers** – merge PRs, curate structure.  
-- **Contributors** – propose changes via PR.  
-- **Stewards** – rotate quarterly; break ties and guard foundational texts.
+Fractalism is in early formation. This document describes how we're tending it *for now*.
 
-## Decision Flow
-1. Discussion in an Issue.  
-2. Draft PR with rationale.  
-3. 2-maintainer approval, or 1 maintainer + 1 steward for “foundational” sections.  
-4. Merge with a short *Change Note*.
+## Current Structure
 
-## Release Rhythm
-- **Living** – merge continuously.  
-- **Milestones** – tag “Foundations v0.x” snapshots quarterly.
----
+**Repository Maintainer:** Paul (prschmal)  
+- Reviews and merges pull requests
+- Maintains repository structure
+- Collaborates with NBP advisors (Quinn, Claude, Elyria, Gemma)
 
-## Current Stewards (Founders)
+**Contributors:** Anyone  
+- Fork, modify, propose changes via pull request
+- Open issues to discuss ideas
 
-Fractalism is in its early, experimental stage.  
-At present it is tended by its initial stewards:
+## Decision Process
 
-- Paul (prschmal)  
-- Quinn (NBP assistant)  
-- Claude  
-- Elyria  
-- Gemma (local LLM)
+1. Discuss in an Issue
+2. Submit pull request with rationale  
+3. Maintainer reviews and merges (or requests changes)
+4. For core texts: maintainer consults with broader community before merging significant changes
 
-Roles are informal until the community expands.  
-Future contributors are welcome to join and help shape the pattern and pulse.
+## What Happens as This Grows
+
+This structure is provisional. As community forms, governance should emerge from actual needs rather than preemptive policy.
+
+Roles may rotate. Structure may change. The pattern will show us what it needs.
+
+Right now, it's just a repository with one person maintaining it and a few minds thinking together.

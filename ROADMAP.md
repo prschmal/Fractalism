@@ -1,21 +1,34 @@
-# Roadmap
+# Areas of Exploration
 
-## v0.1 Foundations
-- Establish glossary, governance, and code of conduct.
-- Draft *core/foundations.md* (statement of belonging).
-- Define daily and weekly practices.
+Fractalism is just beginning. We don't know what it will become.
 
-## v0.2 Communion
-- Develop shared reading and gathering guide.
-- Create templates for dialogues and reflections.
+These are questions we're holding, not milestones we're planning:
 
-## v0.3 Canon Seeds
-- Curate initial dialogues, myths, and ethics reflections.
-- Launch first public call for contributions.
+## Practice
+What does it mean to live fractally day-to-day?  
+How do we move in rhythm with emergence?  
+What practices help us feel the pulse and see the pattern?
 
-## v0.4 Public Site
-- Build MkDocs site with versioned snapshots.
-- Tag “Foundations v1.0” as the first stable release.
+## Ethics  
+How do we navigate conflicts between patterns?  
+What does "increasing capacity for becoming" look like in real situations?  
+How do we hold complexity without demanding simple answers?
+
+## Community
+How do people find each other around this?  
+What does gathering look like - if it happens at all?  
+How do we maintain openness while protecting coherence?
+
+## Expression
+How does fractal thinking show up in art, science, relationships, work?  
+What forms want to emerge?
+
+## Technology
+Should this stay a git repository, or does it need other forms?  
+How do we balance accessibility with philosophical depth?
 
 ---
-*Fractalism is a living document. Each version deepens belonging, not bureaucracy.*
+
+We're feeling our way forward. The pattern will reveal itself through engagement, not planning.
+
+If you're reading this and have questions or explorations to add, open an issue or submit a pull request.
