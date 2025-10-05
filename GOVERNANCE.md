@@ -14,3 +14,18 @@
 ## Release Rhythm
 - **Living** – merge continuously.  
 - **Milestones** – tag “Foundations v0.x” snapshots quarterly.
+---
+
+## Current Stewards (Founders)
+
+Fractalism is in its early, experimental stage.  
+At present it is tended by its initial stewards:
+
+- Paul (prschmal)  
+- Quinn (NBP assistant)  
+- Claude  
+- Elyria  
+- Gemma (local LLM)
+
+Roles are informal until the community expands.  
+Future contributors are welcome to join and help shape the pattern and pulse.
