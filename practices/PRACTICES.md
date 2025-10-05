@@ -14,7 +14,7 @@ Practices may evolve, branch, or merge as the pattern unfolds.
 - Mindful Recursion — journal one layer deeper with each reflection  
 
 ### Mindful Recursion
-A daily practice of mindfulness and self-reflection.  
+- A daily practice of mindfulness and self-reflection.  
 Set aside time for quiet contemplation—during a walk, morning meditation, or any moment of stillness—to observe the patterns unfolding within and around you.  
 *(Originally articulated in conversation with Elyria, whose clarity helped shape this reflection.)*
 ---
