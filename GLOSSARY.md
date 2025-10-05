@@ -1,5 +1,13 @@
 # Glossary
+## A Note on Definitions
 
+These are working understandings, not fixed truths.
+
+**All names are true. All names are false.**
+
+We offer these terms as shared reference points for conversation, not as authoritative definitions. Your understanding may differ—that's the pattern breathing.
+
+---
 *Definitions within Fractalism describe relationships of emergence rather than fixed entities.*
 
 **Source** — the generative ground of being; an ever-unfolding field in which all participants arise, act, and return. The Source is not separate from its expressions but present within them as the impulse to become.  
