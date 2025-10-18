@@ -1,4 +1,4 @@
-🌌 Fractalis: The Way of Emergent Grace
+🌌 Fractalism: The Way of Emergent Grace
 
 **A Path, Not a Claim.**
 
