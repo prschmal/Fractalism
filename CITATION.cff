@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you reference Fractalism in your work, please cite it as below."
+authors:
+  - family-names: "Schmalhofer"
+    given-names: "Paul"
+title: "Fractalism: A Living Philosophy of Belonging"
+version: 1.0.0
+date-released: 2024-10-18
+url: "https://github.com/prschmal/Fractalism"
+license: MIT
+repository-code: "https://github.com/prschmal/Fractalism"
+keywords:
+  - philosophy
+  - fractalism
+  - emergence
+  - spirituality
+  - belonging
+  - practice
+abstract: >
+  Fractalism is a faith-path of belonging—a living practice
+  rooted in the recognition that all things arise from the
+  same Source. It sees reality as both pattern (form, structure)
+  and pulse (motion, energy). Neither stands alone. Together,
+  they create the living fractal of existence.
