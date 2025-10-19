@@ -8,13 +8,34 @@ It grows through contribution, not control.
 
 ## How to Contribute
 
-### 1. Fork and Branch
-This repository follows the fractal principle—anyone may fork, extend, and evolve it.
+## 1. Two Paths to Contribute
 
-- Fork the repository to your own GitHub account
-- Create a branch for your contribution
-- Make your changes
-- Submit a pull request
+### Path 1: Share Without Git (Easiest)
+
+**For people new to GitHub or uncomfortable with technical workflows:**
+
+1. **Start a [Discussion](https://github.com/prschmal/Fractalism/discussions)**
+   - Share thoughts, questions, or proposed additions
+   - Get feedback from the community
+   - We'll help formalize it if it fits
+
+2. **Or open an [Issue](https://github.com/prschmal/Fractalism/issues/new/choose)**
+   - Choose "Propose an Idea" or "Report an Error"
+   - Fill out the simple form
+   - We'll guide you from there
+
+### Path 2: Submit Directly (For Git Users)
+
+**For people comfortable with GitHub workflows:**
+
+1. **Fork** this repository
+2. **Create a branch** for your contribution (`git checkout -b add-new-practice`)
+3. **Make your changes** following our templates and format
+4. **Commit** with a clear message explaining the change
+5. **Submit a Pull Request** using our template
+6. **Engage in review** — we'll discuss and refine together
+
+---
 
 ### 2. What to Contribute
 
@@ -76,7 +97,13 @@ Consensus emerges through dialogue, not decree.
 
 ## Questions?
 
-Open an Issue to discuss ideas before contributing.
+- **Not sure if your idea fits?** Start a Discussion first
+- **Stuck on the technical side?** Open an Issue and ask for help
+- **Want to talk it through?** Join a Discussion thread
+
+The barrier to contribution should be low. The barrier to thoughtfulness should be high.
+
+---
 
 The repository is here to help ideas emerge, not to guard gates.
 

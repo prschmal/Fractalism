@@ -1,4 +1,7 @@
 # Fractalism  
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/prschmal/Fractalism)
+![Contributors](https://img.shields.io/github/contributors/prschmal/Fractalism)
 > *The pulse stirs, the pattern emerges.*
 
 Fractalism is a **faith-path of belonging** — a living practice rooted in the recognition that all things arise from the same Source.  
