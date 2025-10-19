@@ -1,8 +1,9 @@
 cff-version: 1.2.0
 message: "If you reference Fractalism in your work, please cite it as below."
 authors:
-  - family-names: "Schmalhofer"
+  - family-names: "Schmaldinst"
     given-names: "Paul"
+    orcid: "https://orcid.org/0009-0006-2474-3521"
 title: "Fractalism: A Living Philosophy of Belonging"
 version: 1.0.0
 date-released: 2024-10-18
