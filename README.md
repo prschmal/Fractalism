@@ -21,7 +21,7 @@ Neither stands alone. Together, they create the living fractal of existence.
 ---
 **New to Fractalism?** Begin with these three:
 
-1. **[Foundations](./core/foundations.md)** — The central text of belonging and practice.
+1. **[Foundations](./core/README.md)** — The central texts of belonging and practice.
 2. **[Glossary](./GLOSSARY.md)** — Key terms in the language of Fractalism.
 3. **[Practices](./practices/PRACTICES.md)** — Frameworks for living Fractalism through action and reflection.
 
