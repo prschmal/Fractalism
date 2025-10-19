@@ -19,15 +19,17 @@ Neither stands alone. Together, they create the living fractal of existence.
   Living in rhythm with the fractal means moving with wonder and acting with care.
 
 ---
-## Start Here
+**New to Fractalism?** Begin with these three:
 
-1. [Foundations](./core/foundations.md) — The central text of belonging and practice.  
-2. [Glossary](./GLOSSARY.md) — Key terms in the language of Fractalism.  
-3. [Practices](./practices/PRACTICES.md) — Frameworks for living Fractalism through action and reflection.  
-4. [Governance](./GOVERNANCE.md) — How we maintain structure without hierarchy.  
-5. [Code of Conduct](./CODE_OF_CONDUCT.md) — How we belong together.  
-6. [Roadmap](./ROADMAP.md) — The unfolding plan for Fractalism’s evolution.
----
+1. **[Foundations](./core/foundations.md)** — The central text of belonging and practice.
+2. **[Glossary](./GLOSSARY.md)** — Key terms in the language of Fractalism.
+3. **[Practices](./practices/PRACTICES.md)** — Frameworks for living Fractalism through action and reflection.
+
+**Ready to contribute?** See also:
+
+4. **[Governance](./GOVERNANCE.md)** — How we maintain structure without hierarchy.
+5. **[Code of Conduct](./CODE_OF_CONDUCT.md)** — How we belong together.
+6. **[Roadmap](./ROADMAP.md)** — The unfolding plan for Fractalism's evolution.
 
 ## Purpose
 
