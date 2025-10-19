@@ -1,0 +1,31 @@
+name: Report an Error
+description: Fix a mistake, typo, or unclear passage
+title: "[FIX] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us improve clarity and accuracy.
+  - type: input
+    id: location
+    attributes:
+      label: Where is the error?
+      description: Which file and section?
+      placeholder: "e.g., core/foundations.md, section on Pattern"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Describe the error or unclear passage
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: How should it read instead?
+    validations:
+      required: false

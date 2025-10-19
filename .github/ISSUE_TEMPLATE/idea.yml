@@ -1,0 +1,36 @@
+name: Propose an Idea
+description: Suggest a new practice, concept, or change
+title: "[IDEA] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing an idea. Help us understand your thinking.
+  - type: textarea
+    id: description
+    attributes:
+      label: What's your idea?
+      description: Describe what you want to add or change
+    validations:
+      required: true
+  - type: textarea
+    id: principle
+    attributes:
+      label: Which principle does this relate to?
+      description: How does this connect to pulse, pattern, emergence, or other Fractalist concepts?
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: What area does this affect?
+      options:
+        - Core philosophy
+        - Practices
+        - Dialogues
+        - Reflections
+        - Documentation
+        - Other
+    validations:
+      required: true  
