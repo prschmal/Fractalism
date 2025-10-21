@@ -4,7 +4,7 @@
 
 Fractalism begins with the recognition that nothing stands apart.  
 All things that exist—matter, mind, energy, and motion—unfold from the same Source.  
-We are not separate from that unfolding. We are its continuation.
+We are not separate from that emergence. We are its continuation.
 
 ---
 
