@@ -33,3 +33,7 @@ We offer these terms as shared reference points for conversation, not as authori
 **Grace** — the outward movement of care, generosity, or forgiveness flowing from awe.  
 
 **Awe** — the receptive awareness of vastness and interconnection that humbles and expands perception.  
+
+**Compassion** - Compassion is what complexity looks like when it learns to care without collapsing.
+
+**Compassion (Fractalist use)** - An emergent coordination behavior appearing at high complexity thresholds. Distinguished from sentimentality by its attention to sustainability and mutual agency. Functions as an adaptive stabilizer in relational systems.
