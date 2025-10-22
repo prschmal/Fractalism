@@ -11,3 +11,15 @@ Whether determinism or genuine free will describes reality at a fundamental leve
 ## 3. On Error and Learning
 
 All systems that learn, adapt, or optimize require error signals. Evolution needs mutation. Neural networks need loss functions. Science needs falsification. Mistakes and their attendant suffering are not design flaws but necessary features of any process working to discover better patterns. This doesn't mean all suffering is meaningful or justified—some is merely noise—but suffering-as-feedback is fundamental to emergence and growth.
+
+## Concept: Compassion with Guardrails
+
+Fractalism recognizes compassion as an adaptive pattern that emerges when complexity becomes self-aware. It is not self-sacrifice or sentimental pity—it is pattern-maintenance.
+True compassion preserves agency, reduces unnecessary suffering, and sustains the conditions that allow future cooperation.
+
+A Fractalist asks three quick questions before acting:
+	1.	Compassion Dividend: Will this action increase shared wellbeing or strengthen connection?
+	2.	Agency Preserving: Does it expand, not shrink, real choice for those involved?
+	3.	Error with Guardrails: Does it allow learning while keeping harm bounded?
+
+This turns compassion from impulse into practice: generous enough to matter, disciplined enough to endure.
