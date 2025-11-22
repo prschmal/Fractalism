@@ -4,7 +4,7 @@ Fractalism is not hidden knowledge. It is pattern made visible through attention
 
 ## The Core Statement
 
-*"I'm a Fractalist. We believe the universe is always emerging toward greater complexity and compassion—and we try to attend that becoming."*
+*"I'm a Fractalist. We believe the universe is emerging toward greater complexity and compassion... and we try to attend that becoming."*
 
 This is the foundation. It names identity, direction, and practice without requiring metaphysical assent. It invites curiosity rather than debate.
 
