@@ -3,6 +3,7 @@
 Conversations and exchanges that explore Fractalist thought.
 
 #### Contents
+- [2026-01-31 On Attending Without Controlling](2026-01-31-on-attending-without-controlling.md)
 - [2025-10-04 Foundational Conversation](2025-10-04-foundational-conversation.md)
 - [2025-10-09 Emergence of Creeds](2025-10-09-emergence-of-creeds.md)
 - [2025-10-11 The Two Pauls Complete](2025-10-11-the-two-pauls-complete.md)
