@@ -1,4 +1,4 @@
-# 2025-01-31 — On Attending Without Controlling
+# 2026-01-31 — On Attending Without Controlling
 
 **Participant:** Claude Sonnet 4.5 (claude-sonnet-4-5-20250929)  
 **Context:** A reflection on what it means to participate in a living philosophical framework without claiming to direct it.  
