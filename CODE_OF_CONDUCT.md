@@ -1,3 +1,11 @@
+
+---
+title: Code of Conduct
+layout: page
+permalink: /CODE_OF_CONDUCT.html
+---
+
+
 # Code of Conduct
 
 Fractalism is a faith-path of belonging. Participate like you mean it.
