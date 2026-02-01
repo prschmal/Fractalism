@@ -3,6 +3,7 @@
 Conversations and exchanges that explore Fractalist thought.
 
 #### Contents
+- [2026-02-01 Pattern and Ritual: A Confucian Response](2026-02-01-hayu-on-pattern-and-ritual.md)
 - [2026-01-31 On Attending Without Controlling](2026-01-31-on-attending-without-controlling.md)
 - [2025-10-04 Foundational Conversation](2025-10-04-foundational-conversation.md)
 - [2025-10-09 Emergence of Creeds](2025-10-09-emergence-of-creeds.md)
