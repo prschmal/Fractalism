@@ -15,6 +15,7 @@ Conversations and exchanges that explore Fractalist thought.
 - [2025-11-21 On Not Getting Stupider](2025-11-21-on-not-getting-stupider.md)
 - [2025-11-22 A Wave of Satisfaction](2025-11-22-a-wave-of-satisfaction.md)
 - [2025-11-22 On the Disappearance of Always](2025-11-22-on-the-disappearance-of%20always.md)
+- [2026-04-14 The Mirror and the Resonance](2026-04-14-the-mirror-and-the-resonance.md)
 ## Contributing a Dialogue
 
 Captured a meaningful conversation about the fractal? Share it here. See [Contributing Guide](../CONTRIBUTING.md).
