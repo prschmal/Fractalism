@@ -10,4 +10,8 @@ Rituals, observances, and daily actions that embody the philosophy.
 - [Speaking Fractalism](speaking-fractalism.md)
 - [Landscape Resonance](fractalist_landscape_resonance.md)
 
+#### See also
+
+- [Art](../contributions/Art/) — Visual companions to the fractal.
+
 Return to [main README](../README.md)
