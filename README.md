@@ -34,7 +34,7 @@ Neither stands alone. Together, they create the living fractal of existence.
 5. **[Reflections](./reflections/README.md)** — Personal insights and contemplations on the fractal.
 
 6. **[Governance](./GOVERNANCE.md)** — How we maintain structure without hierarchy.
-7. **[Code of Conduct](./CODE_OF_CONDUCT.md)** — How we belong together.
+7. **[Code of Conduct](./code_ofconduct.md)** — How we belong together.
 8. **[Roadmap](./ROADMAP.md)** — The unfolding plan for Fractalism's evolution.
 
 ## Purpose
