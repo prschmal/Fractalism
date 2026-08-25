@@ -10,6 +10,6 @@ Deeper dives into ethics, death, meaning, and emergence.
 **[fractal-ethics.md](fractal-ethics.html)** - A discussion about conflicts in the pattern
 ## Contributing a Reflection
 
-Have a reflection on your practice or an emergence you've witnessed? Share it here. See [Contributing Guide](../CONTRIBUTING.md).
+Have a reflection on your practice or an emergence you've witnessed? Share it here. See [Contributing Guide](../contributing.md).
 
 [← Back to main](../README.md)  

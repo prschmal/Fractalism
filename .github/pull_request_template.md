@@ -12,7 +12,7 @@
 
 ## Checklist
 
-- [ ] I've read the [Contributing Guide](CONTRIBUTING.md)
+- [ ] I've read the [Contributing Guide](contributing.md)
 - [ ] This change aligns with Fractalist principles
 - [ ] I've checked for typos and clarity
 - [ ] If adding a new practice/dialogue/reflection, I've followed existing formats

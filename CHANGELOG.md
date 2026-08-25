@@ -11,8 +11,25 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0
 ## [Unreleased]
 
 ### In Progress
-- GitHub Pages site for improved accessibility
 - Additional practices and dialogues from community
+
+---
+
+## [2026-08-25] - The Unfinished Computation
+
+### Added
+- New dialogue: [The Unfinished Computation](dialogues/2026-08-08-the-unfinished-computation.md) — Paul and Hayu on awe, the void as possibility (the Breath), the x + y spiral of uncertainty, and computational irreducibility
+- Record of the GitHub Pages site at [fractalism.live](https://fractalism.live) — live since November 2025, documented here at long last
+
+### Changed
+- Dialogues index reordered newest-first
+- Fixed six `CONTRIBUTING.md` references that the April 2026 rename to `contributing.md` left behind (dialogues and reflections READMEs, three section templates, and the pull request template)
+
+### Removed
+- Committed `.DS_Store`; added a `.gitignore` to keep it that way
+
+### Fixed
+- Renamed `dialogues/2025-11-22-on-the-disappearance-of always.md` to `dialogues/2025-11-22-on-the-disappearance-of-always.md` and updated its links
 
 ---
 

@@ -17,4 +17,4 @@
 
 ---
 
-*To contribute a reflection, see our [Contributing Guide](../CONTRIBUTING.md). Submit via Pull Request or share in [Discussions](https://github.com/prschmal/Fractalism/discussions).*
+*To contribute a reflection, see our [Contributing Guide](../contributing.md). Submit via Pull Request or share in [Discussions](https://github.com/prschmal/Fractalism/discussions).*
