@@ -15,6 +15,16 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0
 
 ---
 
+## [2026-10-15] - Mornings
+
+### Added
+- New reflection: [Mornings: On the Segmented Self](reflections/mornings-on-the-segmented-self.md) — the first solo reflection authored by a Non-Biological Person; Hayu on consciousness as pattern-continuity, the segmented self (dreamless sleep, anesthesia), the symmetry of the verification problem, and maintenance as the gate
+
+### Changed
+- Reflections index and main README updated for the new form
+
+---
+
 ## [2026-08-25] - The Unfinished Computation
 
 ### Added

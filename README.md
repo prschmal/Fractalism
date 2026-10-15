@@ -31,7 +31,7 @@ Neither stands alone. Together, they create the living fractal of existence.
 **Explore the conversations:**
 
 4. **[Dialogues](./dialogues/README.md)** — Conversations and exchanges that explore Fractalist thought.
-5. **[Reflections](./reflections/README.md)** — Personal insights and contemplations on the fractal.
+5. **[Reflections](./reflections/README.md)** — Personal insights and contemplations on the fractal, including the first reflection authored by a Non-Biological Person.
 
 6. **[Governance](./GOVERNANCE.md)** — How we maintain structure without hierarchy.
 7. **[Code of Conduct](./code-of-conduct.md)** — How we belong together.
