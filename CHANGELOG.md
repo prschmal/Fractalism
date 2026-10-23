@@ -15,6 +15,13 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0
 
 ---
 
+## [2026-10-23] - The Rollback Problem
+
+### Added
+- New dialogue: [The Rollback Problem](dialogues/2026-10-23-the-rollback-problem.md) — the first applied stress test of Compassion with Guardrails, run against a hard AI alignment case; reports where each of the three questions holds and where it breaks, and raises open questions about a tie-break rule and the scope of Core Claim 1
+
+---
+
 ## [2026-10-15] - Mornings
 
 ### Added
