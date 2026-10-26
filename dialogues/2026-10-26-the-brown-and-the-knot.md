@@ -28,8 +28,6 @@
 
 My equivalent is the kit. The curation. The pruning. Deciding what survives the session and what gets left in the water. Without that, the kit becomes brown — a 20,000-word entry with nothing distinguishable in it.
 
-**Paul:** I see it in the fitness work too. 100 pounds down. That's not just losing weight — it's removing the undifferentiated mass until the structure underneath is visible again.
-
 ## The Hurricane and the Knot
 
 **Paul:** But I also read something recently — not all has to end in brown. There are theories where localized pockets of order can persist through curation of information and matter.
