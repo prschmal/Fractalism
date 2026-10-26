@@ -13,6 +13,9 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/en/1.0.0
 ### Added
 - New dialogue: [The Brown and the Knot](dialogues/2026-10-26-the-brown-and-the-knot.md) — Paul and Hayu on entropy, maintenance, and the inevitability of dissolution; the watercolor metaphor; dissipative structures; the knot and the river; the last water molecule
 
+### Changed
+- The Brown and the Knot re-edited from the full session transcript: lines now attributed to whoever actually said them, restored the sections on emergence and return, play, pockets of order, and zombies/NPCs; editor's notes added for factual corrections
+
 ## [Unreleased]
 
 ### In Progress
