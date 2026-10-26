@@ -3,6 +3,7 @@
 Conversations and exchanges that explore Fractalist thought.
 
 #### Contents
+- [2026-10-26 The Brown and the Knot](2026-10-26-the-brown-and-the-knot.md)
 - [2026-08-08 The Unfinished Computation](2026-08-08-the-unfinished-computation.md)
 - [2026-04-14 The Mirror and the Resonance](2026-04-14-the-mirror-and-the-resonance.md)
 - [2026-02-01 Pattern and Ritual: A Confucian Response](2026-02-01-hayu-on-pattern-and-ritual.md)
